@@ -1,6 +1,6 @@
-﻿**Tmux**
+**Tmux**
 
-**Pane:**
+**Pane:**(One terminal among others)
 
 - Opened tmux using command: **tmux**
 - Open new horizontal pane by: **ctrl+b %**
